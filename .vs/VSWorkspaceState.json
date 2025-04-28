@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Start"
+    "\\Start",
+    "\\Start\\Start"
   ],
   "SelectedNode": "\\Start\\Start.cpp",
   "PreviewInSolutionExplorer": false
